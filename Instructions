@@ -1,0 +1,9 @@
+# Instructions for the project
+
+## Setup
+The payment methods cannot be demonstrated as it involves bank transfers. therefore we have only taken a sample data as an example. To see the project working. 
+* Sign in to make.com ( its a platform to run coded automations).
+* Upload the .json file from this repository to the make.com.
+* Connect all your APIs of different apps included.
+* Run the project to see it working.
+* This automation can only be controlled by the user on their end. No one else can access that.
